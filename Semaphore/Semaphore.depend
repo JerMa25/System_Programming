@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1746608117 source:/home/jerma/Desktop/Cours 3GI/Semestre 2/SysProg/Semaphore/main.c
+	<stdio.h>
+	<semaphore.h>
+	<unistd.h>
+	<pthread.h>
+

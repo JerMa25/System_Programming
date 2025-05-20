@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1747737945 source:/home/jerma/Desktop/Cours 3GI/Semestre 2/SysProg/gestion_Etudiants/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

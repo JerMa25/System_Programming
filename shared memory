@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <shm.h>
+
+int main(){
+    int pid, key, donnee, mem_id;
+    key = ftok("fichier.x",0);
+    mem_id = shmget(key, 2048, 0666|IPC_CREAT);
+}
